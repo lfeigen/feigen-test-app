@@ -1,6 +1,6 @@
 # getting-started-java
 
-Bobby
+Bobby Bobby
 
 A sample application in Java for wercker.
 
